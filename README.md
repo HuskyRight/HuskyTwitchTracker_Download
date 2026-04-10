@@ -34,11 +34,7 @@ Um den Tracker zu nutzen, musst du eine App bei Twitch registrieren:
 3. Setze die **OAuth Redirect URL** auf `http://localhost:17563`.
 4. Kopiere die **Client ID**.
 5. Generiere ein **Client Secret** und kopiere es ebenfalls.
-6. Trage beide Werte in der App unter **Settings** ein oder erstelle manuell eine `.env` Datei im Hauptverzeichnis:
-   ```env
-   TWITCH_CLIENT_ID=deine_id
-   TWITCH_CLIENT_SECRET=dein_secret
-   ```
+6. Trage beide Werte in der App unter **Settings** ein.
 
 ## 💡 Wichtige Hinweise zur API
 
